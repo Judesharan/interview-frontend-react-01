@@ -19,7 +19,7 @@ function App() {
           <ol>1. Name</ol>
           <ol>2. List down the Programming Languages that you have used before and map them in the following order:</ol>
             <ul>
-              <ol> Familiar: Can make things work by collaging code snippets together from Stack Overflow and other external references </ol>
+              <ol>Familiar: Can make things work by collaging code snippets together from Stack Overflow and other external references </ol>
               <ol>Proficient: Occasional reference to Stack Overflow and external references, but have good understanding of what the code is doing</ol>
               <ol>Excellent: Can code without Stack Overflow and minimal reference to documentation</ol>
             </ul>
@@ -90,7 +90,7 @@ function App() {
                   display: "inline-block",
                 }}
               >
-                y: 'abc' =&gt; y: 'abc ABC', z: 'aba' =&gt; y: 'abc XYZ'
+                y: 'abc' =&gt; y: 'abc ABC', z: 'aba' =&gt; z: 'aba XYZ'
               </div>
               )
             </li>
