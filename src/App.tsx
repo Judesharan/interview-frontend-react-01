@@ -9,7 +9,7 @@ function App() {
         <img src={logo}  alt="logo" />
       </div>
       <div className="task-content">
-        <h1>Welcome to the Frontend Interview</h1>
+        <h1>Welcome to the Frontend (REACT) Development Interview</h1>
         <h4>Hint: If you are not able to solve some parts of the task please skip the
         part and continue on. We ♥ Typescript.</h4>
         <h2>Task 1a - Introduction (Applicant Profile)</h2>
